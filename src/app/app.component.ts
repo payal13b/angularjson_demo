@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angularjson_copilotdemo';
+  // Change the title to Hello Copilot! to see the change in the browser
+  title = 'Hello Copilot!';
 }
